@@ -6,10 +6,6 @@ import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 import streamlit as st
 
-# Your app code here
-st.title("Teacher Mood Prediction Dashboard")
-st.write("This is a Streamlit app!")
-
 # =============================================================================
 # Helper functions
 # =============================================================================
